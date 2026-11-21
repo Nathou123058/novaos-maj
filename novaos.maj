@@ -1,0 +1,12 @@
+NOVAOS-MAJ 1
+version=1
+nom=NovaOS 1.1
+date=2026-11-21
+notes=Premiere publication
+noyau=noyau-1.bin
+noyau_taille=701424
+noyau_sha256=9fbf7dc832ec618b69bd74681056c52fd0ab233f2bf2d7d33a2a1197b4054dd4
+etape2=etape2-1.bin
+etape2_taille=2468
+etape2_sha256=eb2d74a31d5468a5a47386cb79bb54187a60a72a3b726b6c090ecb9a7c5ab611
+signature=be9e34ed0e5b2911f308b5bafb8e3302e738789c3a55e6777b112ec787ecfac784c1e5df74eae11dd508fd824979e55ac16bdd89721a7e5c9e926bf885397cdc
