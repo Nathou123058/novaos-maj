@@ -1,12 +1,12 @@
 NOVAOS-MAJ 1
-version=3
-nom=NovaOS 1.3
+version=4
+nom=NovaOS 1.4
 date=2026-11-21
-notes=Videos NovaTube enregistrees sous leur titre en .nvid (video NovaOS), noms de fichiers telecharges corriges, colonne Type dans l'Explorateur
-noyau=noyau-3.bin
-noyau_taille=706712
-noyau_sha256=aaf45906f85f1fccc65cf95d49dfcc353188b2898c2468760013a595056ce1fe
-etape2=etape2-3.bin
+notes=Correction : la souris (ou le clavier) ne se fige plus pendant les acces au disque (installation, gros telechargements)
+noyau=noyau-4.bin
+noyau_taille=707128
+noyau_sha256=49e37180fd331d51cfd08b5a56bde0488939ac53896d06390d26c3cb68dbd5ce
+etape2=etape2-4.bin
 etape2_taille=2468
 etape2_sha256=eb2d74a31d5468a5a47386cb79bb54187a60a72a3b726b6c090ecb9a7c5ab611
-signature=1334c26f64521ec0ef6581023ddc12d39fb56f79f9932314bb232e68e6f5d55ce60b181bf77928ad78019152a1fd8b37817fb514453eb18e02250cc6a534f09f
+signature=4c1952a3e1bbaaeed33042e884f2fbcc91bba1f1122e2744f52288b2e80ada6762a2c88b8bea5d5186dd2e8300552b54849684dbdc6c6099fda64a1756d65c1b
