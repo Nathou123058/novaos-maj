@@ -1,12 +1,12 @@
 NOVAOS-MAJ 1
-version=7
-nom=NovaOS 1.7
+version=8
+nom=NovaOS 1.8
 date=2026-11-24
-notes=NovaOS plus leger : les videos sont lues sur le disque au fur et a mesure (environ 10 Mo de memoire au lieu de toute la video), et l'enregistrement ne fait plus de copie en double
-noyau=noyau-7.bin
-noyau_taille=711408
-noyau_sha256=53d1d937b24a7dc302c93ddd6eb9fbb41782af8df68a7c48752ce2801e167e7e
-etape2=etape2-7.bin
+notes=Installation depuis la cle USB : la petite partie NOVAOS de la cle n'est plus recopiee sur le disque dur ; nouvelles commandes cle et cle-normale
+noyau=noyau-8.bin
+noyau_taille=711424
+noyau_sha256=b4c21816018f22e50030a935b01d6eecaf7851bd95a201c21195456532aab322
+etape2=etape2-8.bin
 etape2_taille=2915
 etape2_sha256=44492d3ce99dc259ad31fa80d420653b5138f061f6373cee5d69c31171ae0f10
-signature=0721134b87402e774f753ae92e11b03423f60a99919dc66aa36efdcd3c81b1c7434a50fa9c78db336f8139b4ab414d70837bdb9ca87a6047c7e01e62d98f1e7a
+signature=072c30b5c13ac5184b1fca4ab5270f89b0e18e39d22543d5ee0e031c5e84221a9487aa435daca507ca11113966a2cea194964949fdd876ab54339f53a8586a9e
