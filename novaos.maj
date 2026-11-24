@@ -1,12 +1,12 @@
 NOVAOS-MAJ 1
-version=5
-nom=NovaOS 1.5
+version=6
+nom=NovaOS 1.6
 date=2026-11-24
-notes=Correction du demarrage (ligne A20) : NovaOS demarre maintenant dans VirtualBox et sur les PC concernes ; nouvelle commande iso
-noyau=noyau-5.bin
-noyau_taille=707128
-noyau_sha256=0fc3a1b31a4269d12046c3e380090e3d4ec9f4de24e0f9704dfbb6374ee7245d
-etape2=etape2-5.bin
-etape2_taille=2588
-etape2_sha256=d082bd6c8558f43a9784cd528b5e64f2c65c2489fe9a58057f6e9ad4be74418c
-signature=5098312e42e3c52b3f69a34f3a6f7fcd4c3675c9f49e5b2a96306ff50c9704f2681e39327c4630b73afb7680a5f0914f461728542096c4b1203cc2e48ce0b7ba
+notes=Le CD demarre tout seul sur NovaOS installe sur le disque dur ; depuis le CD, les fichiers restent en memoire (plus de disque plein)
+noyau=noyau-6.bin
+noyau_taille=709336
+noyau_sha256=23502b1477ce2190c29f9e144f351c6ebdcc8355bb9088760c1dca832ee0a49d
+etape2=etape2-6.bin
+etape2_taille=2915
+etape2_sha256=44492d3ce99dc259ad31fa80d420653b5138f061f6373cee5d69c31171ae0f10
+signature=906ebb1182220eee609a2419c4a8d52a751d29bf13ce690c69c4ac04ee7be3a2d65f52dca9c06e6a00494f5344c591918594695a4c18b4d412566f91ca5e7488
