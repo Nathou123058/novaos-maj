@@ -1,12 +1,12 @@
 NOVAOS-MAJ 1
-version=6
-nom=NovaOS 1.6
+version=7
+nom=NovaOS 1.7
 date=2026-11-24
-notes=Le CD demarre tout seul sur NovaOS installe sur le disque dur ; depuis le CD, les fichiers restent en memoire (plus de disque plein)
-noyau=noyau-6.bin
-noyau_taille=709336
-noyau_sha256=23502b1477ce2190c29f9e144f351c6ebdcc8355bb9088760c1dca832ee0a49d
-etape2=etape2-6.bin
+notes=NovaOS plus leger : les videos sont lues sur le disque au fur et a mesure (environ 10 Mo de memoire au lieu de toute la video), et l'enregistrement ne fait plus de copie en double
+noyau=noyau-7.bin
+noyau_taille=711408
+noyau_sha256=53d1d937b24a7dc302c93ddd6eb9fbb41782af8df68a7c48752ce2801e167e7e
+etape2=etape2-7.bin
 etape2_taille=2915
 etape2_sha256=44492d3ce99dc259ad31fa80d420653b5138f061f6373cee5d69c31171ae0f10
-signature=906ebb1182220eee609a2419c4a8d52a751d29bf13ce690c69c4ac04ee7be3a2d65f52dca9c06e6a00494f5344c591918594695a4c18b4d412566f91ca5e7488
+signature=0721134b87402e774f753ae92e11b03423f60a99919dc66aa36efdcd3c81b1c7434a50fa9c78db336f8139b4ab414d70837bdb9ca87a6047c7e01e62d98f1e7a
