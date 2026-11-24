@@ -1,12 +1,12 @@
 NOVAOS-MAJ 1
-version=4
-nom=NovaOS 1.4
-date=2026-11-21
-notes=Correction : la souris (ou le clavier) ne se fige plus pendant les acces au disque (installation, gros telechargements)
-noyau=noyau-4.bin
+version=5
+nom=NovaOS 1.5
+date=2026-11-24
+notes=Correction du demarrage (ligne A20) : NovaOS demarre maintenant dans VirtualBox et sur les PC concernes ; nouvelle commande iso
+noyau=noyau-5.bin
 noyau_taille=707128
-noyau_sha256=49e37180fd331d51cfd08b5a56bde0488939ac53896d06390d26c3cb68dbd5ce
-etape2=etape2-4.bin
-etape2_taille=2468
-etape2_sha256=eb2d74a31d5468a5a47386cb79bb54187a60a72a3b726b6c090ecb9a7c5ab611
-signature=4c1952a3e1bbaaeed33042e884f2fbcc91bba1f1122e2744f52288b2e80ada6762a2c88b8bea5d5186dd2e8300552b54849684dbdc6c6099fda64a1756d65c1b
+noyau_sha256=0fc3a1b31a4269d12046c3e380090e3d4ec9f4de24e0f9704dfbb6374ee7245d
+etape2=etape2-5.bin
+etape2_taille=2588
+etape2_sha256=d082bd6c8558f43a9784cd528b5e64f2c65c2489fe9a58057f6e9ad4be74418c
+signature=5098312e42e3c52b3f69a34f3a6f7fcd4c3675c9f49e5b2a96306ff50c9704f2681e39327c4630b73afb7680a5f0914f461728542096c4b1203cc2e48ce0b7ba
